@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jun 18 20:10:44 2023
-
-@author: PBH
-"""
 
 import datetime
 
